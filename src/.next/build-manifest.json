@@ -1,0 +1,23 @@
+{
+  "devFiles": [
+    "static/development/dll/dll_8883268e1b4f9ff612b3.js"
+  ],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/property": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/property-list": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ]
+  }
+}
